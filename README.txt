@@ -1,1 +1,1 @@
-Each of the programs will work only if the columns of the input file match the columns of the file '2019.02.13_repers_id.xlsx'
+Each of the programs will work only if the input file has the same columns as file 'sample.xlsx'
